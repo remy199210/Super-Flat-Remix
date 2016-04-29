@@ -1,6 +1,21 @@
 Super Flat Remix  V1.08
 ===========
 
+## Fork purpose
+- Only updated for Unity Theme
+- Changes in that branch have the purpose to fit the FlatBird theme (alse updated [here](https://github.com/remy199210/FlatBird))
+- light icons status progressively updated for the top bar
+
+## Installation
+Download the theme  
+```sudo git clone https://github.com/remy199210/SuperFlat-Light /usr/share/icons/SuperFlat-Light```  
+Update permission  
+```sudo chmod -R ugo+rw /usr/share/icons/SuperFlat-Light```  
+If you don't have the Unity-Tweak-Tool yet install it to select your brand new icon theme :  
+Command line  
+```sudo apt-get install unity-tweak-tool```  
+or via the App Center
+
 All icons are available for use under a Creative Commons ShareAlike license. 
 
 Super Flat remix is a pretty simple icon theme, derived from Ultra-Flat-Icons, [Paper](http://snwh.org/paper/) and [EvoPop](https://github.com/solus-project/evopop-icon-theme) icon themes. Its design is mostly flat with a subtle use of shadows, highlights and gradients for some depth.
